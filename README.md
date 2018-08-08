@@ -7,3 +7,5 @@
 - float+margin-left
 - absolute+margin-left
 - grid
+
+[查看demo](https://liuyuanquan.github.io/react-adapt/build/index.html)
